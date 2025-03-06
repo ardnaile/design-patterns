@@ -8,7 +8,7 @@ Repositório utilizado na matéria de Design Patterns no curso de Engenharia de 
 * [Exercício 3 - converter código de sistema bancário para POO](https://gist.github.com/ardnaile/76cc215d67fd9143a6f134bd3281c01a)
 * [Exercício 4 - gerenciamento de tarefas pessoais](https://gist.github.com/ardnaile/1d901d5246690d64c304639ef600e7ae)
 * [Exercício 5 - calculadora de formas geométricas](https://gist.github.com/ardnaile/d0b583a1fefb4149904314f5b612c988)
-* Exercício 6 - sistema de cadastro de produtos
+* [Exercício 6 - sistema de cadastro de produtos](https://gist.github.com/ardnaile/e73860905e3df95bfa029c6fd627db25)
 * Exercício 7 - sistema de notificações
 * Exercício 8 - sistema de pagamentos
 * Exercício 9 - sistema de relatórios
