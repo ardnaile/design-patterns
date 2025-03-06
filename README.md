@@ -1,7 +1,9 @@
 # Design Patterns
 Repositório utilizado na matéria de Design Patterns no curso de Engenharia de Software da Unisatc. Nesse read.me estão os links para os gists com as resoluções de exercícios propostos em sala de aula!
 
-## Aula 2 - Programação Orientada a Objeetos
+## Aula 2 - Programação Orientada a Objetos
+
+Estes exercícios foram realizados utilizando a ferramenta [Typescript Playground](https://www.typescriptlang.org/play/?#code/Q)!
 
 * [Exercício 1 - converter código para POO](https://gist.github.com/ardnaile/092fb0b757b1261a7c9e32ac6f0e3788)
 * [Exercício 2 - converter código de to-do list para POO](https://gist.github.com/ardnaile/054796a2a6926fffddcee2f220f0a633)
