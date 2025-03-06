@@ -11,4 +11,4 @@ Repositório utilizado na matéria de Design Patterns no curso de Engenharia de 
 * [Exercício 6 - sistema de cadastro de produtos](https://gist.github.com/ardnaile/e73860905e3df95bfa029c6fd627db25)
 * [Exercício 7 - sistema de notificações](https://gist.github.com/ardnaile/3cf0013e7015b5707456c1228837f469)
 * [Exercício 8 - sistema de pagamentos](https://gist.github.com/ardnaile/662be5687ad8a0d52aad18078c3f44c3)
-* Exercício 9 - sistema de relatórios
+* [Exercício 9 - sistema de relatórios](https://gist.github.com/ardnaile/18042cfb191f0e1be98583c59c92e691)
