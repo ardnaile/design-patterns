@@ -19,3 +19,4 @@ A aula 2 foi uma revisão dos conceitos de POO. Os [exercícios](https://gist.gi
 A aula 3 deu continuidade ao assunto de POO, passando também pelos princípios SOLID e diagramas UML. Os [exercícios](https://gist.github.com/paeeglee/95a409bee458ff69cb4422d46d7e5beb) consistem em implementar os diagramas UML em Typescript levando em consideração os conceitos vistos em sala de aula.
 
 * [Exercício 1 - sistema de gerenciamento de funcionários](https://gist.github.com/ardnaile/26daf043ea110100375ff52dc0779d57)
+* [Exercício 2 - sistema de transporte urbano](https://gist.github.com/ardnaile/4c5fb2f940ccb011aca0f49e1e68c05b)
