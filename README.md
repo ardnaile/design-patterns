@@ -3,7 +3,7 @@ Repositório utilizado na matéria de Design Patterns no curso de Engenharia de 
 
 ## Aula 2 - Programação Orientada a Objetos
 
-Estes exercícios foram realizados utilizando a ferramenta [Typescript Playground](https://www.typescriptlang.org/play/?#code/Q)!
+A aula 2 foi uma revisão dos conceitos de POO. Os [exercícios](https://gist.github.com/paeeglee/b61aa825074f313fb681d64015abd0a7) foram realizados utilizando a ferramenta [Typescript Playground](https://www.typescriptlang.org/play/?#code/Q).
 
 * [Exercício 1 - converter código para POO](https://gist.github.com/ardnaile/092fb0b757b1261a7c9e32ac6f0e3788)
 * [Exercício 2 - converter código de to-do list para POO](https://gist.github.com/ardnaile/054796a2a6926fffddcee2f220f0a633)
@@ -14,3 +14,8 @@ Estes exercícios foram realizados utilizando a ferramenta [Typescript Playgroun
 * [Exercício 7 - sistema de notificações](https://gist.github.com/ardnaile/3cf0013e7015b5707456c1228837f469)
 * [Exercício 8 - sistema de pagamentos](https://gist.github.com/ardnaile/662be5687ad8a0d52aad18078c3f44c3)
 * [Exercício 9 - sistema de relatórios](https://gist.github.com/ardnaile/18042cfb191f0e1be98583c59c92e691)
+
+## Aula 3 - POO, SOLID e UML
+A aula 3 deu continuidade ao assunto de POO, passando também pelos princípios SOLID e diagramas UML. Os [exercícios](https://gist.github.com/paeeglee/95a409bee458ff69cb4422d46d7e5beb) consistem em implementar os diagramas UML em Typescript levando em consideração os conceitos vistos em sala de aula.
+
+* [Exercício 1 - sistema de gerenciamento de funcionários](https://gist.github.com/ardnaile/26daf043ea110100375ff52dc0779d57)
