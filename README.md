@@ -20,3 +20,4 @@ A aula 3 deu continuidade ao assunto de POO, passando também pelos princípios 
 
 * [Exercício 1 - sistema de gerenciamento de funcionários](https://gist.github.com/ardnaile/26daf043ea110100375ff52dc0779d57)
 * [Exercício 2 - sistema de transporte urbano](https://gist.github.com/ardnaile/4c5fb2f940ccb011aca0f49e1e68c05b)
+* [Exercício 3 - sistema de banco digital](https://gist.github.com/ardnaile/fdf4cbb61b3afd3a7a178ea8bfaf978b)
