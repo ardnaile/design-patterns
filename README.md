@@ -22,3 +22,26 @@ A aula 3 deu continuidade ao assunto de POO, passando também pelos princípios 
 * Exercício 2 - sistema de transporte urbano[💻](https://gist.github.com/ardnaile/4c5fb2f940ccb011aca0f49e1e68c05b)
 * Exercício 3 - sistema de banco digital[💻](https://gist.github.com/ardnaile/fdf4cbb61b3afd3a7a178ea8bfaf978b)
 * Exercício 5 - sistema de publicação de conteúdo[💻](https://gist.github.com/ardnaile/b33d044d1b0a476b7caeac590053e489)
+
+## Aula 4 - Factory Method
+Na aula 4 foi iniciado o assunto de Design Patterns propriamente, iniciando pelo Factory Method. 
+
+#### Qual problema o Factory Method resolve?
+Quando uma classe precisar criar objetos de diferentes tipos porém não se sabe quais ou quantos objetos vão ser precisos de antemão
+
+#### E como ele resolve?
+Utilizando uma classe Factory que cria os objetos sem expor a lógica de criação para quem está usando a classe, deixando o código mais desacoplado
+
+#### Praticando...
+Exercício 1 - sistema de notificações [💻]()
+
+![image](https://github.com/user-attachments/assets/28146b87-0313-47b6-840e-c2cd08581953)
+---
+Exercício 2 - plataforma de pagamentos [💻]()
+
+![image](https://github.com/user-attachments/assets/5cae0224-ec41-4421-99f9-36d1410f706b)
+---
+Exercício 3 - plataforma de streaming [💻]()
+
+![image](https://github.com/user-attachments/assets/41619cba-06a8-42b5-a577-f06c4443e812)
+---
