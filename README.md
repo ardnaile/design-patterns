@@ -41,7 +41,7 @@ Exercício 2 - plataforma de pagamentos [💻](https://gist.github.com/ardnaile/
 
 ![image](https://github.com/user-attachments/assets/5cae0224-ec41-4421-99f9-36d1410f706b)
 ---
-Exercício 3 - plataforma de streaming [💻]()
+Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/013d0cda1f60cc0dc9191956d2b3ecd8)
 
 ![image](https://github.com/user-attachments/assets/41619cba-06a8-42b5-a577-f06c4443e812)
 ---
