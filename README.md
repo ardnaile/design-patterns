@@ -37,7 +37,7 @@ Exercício 1 - sistema de notificações [💻](https://gist.github.com/ardnaile
 
 ![image](https://github.com/user-attachments/assets/28146b87-0313-47b6-840e-c2cd08581953)
 ---
-Exercício 2 - plataforma de pagamentos [💻]()
+Exercício 2 - plataforma de pagamentos [💻](https://gist.github.com/ardnaile/19032235d5fa2482e6774126692d808a)
 
 ![image](https://github.com/user-attachments/assets/5cae0224-ec41-4421-99f9-36d1410f706b)
 ---
