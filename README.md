@@ -33,7 +33,7 @@ Quando uma classe precisar criar objetos de diferentes tipos porém não se sabe
 Utilizando uma classe Factory que cria os objetos sem expor a lógica de criação para quem está usando a classe, deixando o código mais desacoplado
 
 #### Praticando...
-Exercício 1 - sistema de notificações [💻]()
+Exercício 1 - sistema de notificações [💻](https://gist.github.com/ardnaile/daf5bff804c1524a50ee144290d6d584)
 
 ![image](https://github.com/user-attachments/assets/28146b87-0313-47b6-840e-c2cd08581953)
 ---
