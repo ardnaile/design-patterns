@@ -21,6 +21,7 @@ A aula 3 deu continuidade ao assunto de POO, passando também pelos princípios 
 * Exercício 1 - sistema de gerenciamento de funcionários[💻](https://gist.github.com/ardnaile/26daf043ea110100375ff52dc0779d57)
 * Exercício 2 - sistema de transporte urbano[💻](https://gist.github.com/ardnaile/4c5fb2f940ccb011aca0f49e1e68c05b)
 * Exercício 3 - sistema de banco digital[💻](https://gist.github.com/ardnaile/fdf4cbb61b3afd3a7a178ea8bfaf978b)
+* Exercício 4 - sistema de pedidos de restaurante [💻](https://gist.github.com/ardnaile/b7e8435d738104e09c511200aa7774e6)
 * Exercício 5 - sistema de publicação de conteúdo[💻](https://gist.github.com/ardnaile/b33d044d1b0a476b7caeac590053e489)
 
 ## Aula 4 - Factory Method
