@@ -5,7 +5,7 @@ Repositório utilizado na matéria de Design Patterns no curso de Engenharia de 
 - [Programação orientada a objetos](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#programa%C3%A7%C3%A3o-orientada-a-objetos)
 - [POO, SOLID e UML](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#poo-solid-e-uml)
 - [Factory Method](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#factory-method)
-- [Abstract Factory](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#abstract-method)
+- [Abstract Factory](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#abstract-factory)
 
 ## Programação Orientada a Objetos
 
