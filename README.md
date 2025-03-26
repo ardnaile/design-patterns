@@ -53,3 +53,6 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 ![image](https://github.com/user-attachments/assets/41619cba-06a8-42b5-a577-f06c4443e812)
 ---
 ## Abstract Factory
+* Exercício 1 - fábrica de brinquedos [💻](https://gist.github.com/ardnaile/39fc9ad0aed1e7d9bcf545ac91afb346)
+* Exercício 2 - fábrica de criaturas mágicas
+* Exercício 3 - fábrica de veículos futuristas
