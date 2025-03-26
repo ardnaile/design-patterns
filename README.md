@@ -1,7 +1,13 @@
 # Design Patterns
 Repositório utilizado na matéria de Design Patterns no curso de Engenharia de Software da Unisatc. Nesse read.me estão os links para os gists com as resoluções de exercícios propostos em sala de aula!
 
-## Aula 2 - Programação Orientada a Objetos
+## Índice
+- [Programação orientada a objetos](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#programa%C3%A7%C3%A3o-orientada-a-objetos)
+- [POO, SOLID e UML](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#poo-solid-e-uml)
+- [Factory Method](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#factory-method)
+- [Abstract Factory](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#abstract-method)
+
+## Programação Orientada a Objetos
 
 A aula 2 foi uma revisão dos conceitos de POO. Os [exercícios](https://gist.github.com/paeeglee/b61aa825074f313fb681d64015abd0a7) foram realizados utilizando a ferramenta [Typescript Playground](https://www.typescriptlang.org/play/?#code/Q).
 
@@ -15,7 +21,7 @@ A aula 2 foi uma revisão dos conceitos de POO. Os [exercícios](https://gist.gi
 * Exercício 8 - sistema de pagamentos[💻](https://gist.github.com/ardnaile/662be5687ad8a0d52aad18078c3f44c3)
 * Exercício 9 - sistema de relatórios[💻](https://gist.github.com/ardnaile/18042cfb191f0e1be98583c59c92e691)
 
-## Aula 3 - POO, SOLID e UML
+## POO, SOLID e UML
 A aula 3 deu continuidade ao assunto de POO, passando também pelos princípios SOLID e diagramas UML. Os [exercícios](https://gist.github.com/paeeglee/95a409bee458ff69cb4422d46d7e5beb) consistem em implementar os diagramas UML em Typescript levando em consideração os conceitos vistos em sala de aula.
 
 * Exercício 1 - sistema de gerenciamento de funcionários[💻](https://gist.github.com/ardnaile/26daf043ea110100375ff52dc0779d57)
@@ -24,7 +30,7 @@ A aula 3 deu continuidade ao assunto de POO, passando também pelos princípios 
 * Exercício 4 - sistema de pedidos de restaurante [💻](https://gist.github.com/ardnaile/b7e8435d738104e09c511200aa7774e6)
 * Exercício 5 - sistema de publicação de conteúdo[💻](https://gist.github.com/ardnaile/b33d044d1b0a476b7caeac590053e489)
 
-## Aula 4 - Factory Method
+## Factory Method
 Na aula 4 foi iniciado o assunto de Design Patterns propriamente, iniciando pelo Factory Method. 
 
 #### Qual problema o Factory Method resolve?
@@ -46,3 +52,4 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 
 ![image](https://github.com/user-attachments/assets/41619cba-06a8-42b5-a577-f06c4443e812)
 ---
+## Abstract Factory
