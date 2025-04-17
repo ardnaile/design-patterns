@@ -58,5 +58,5 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 * Exercício 3 - fábrica de veículos futuristas
 
 ## Adapter
-* Exercício 1 - Adaptador de formato de data
-* Exercício 2 - Adaptador de sistemas legados de RH
+* Exercício 1 - Adaptador de formato de data [💻](https://gist.github.com/ardnaile/2fac0f997b0cb43c248147a7f0eac7f2)
+* Exercício 2 - Adaptador de sistemas legados de RH [💻]()
