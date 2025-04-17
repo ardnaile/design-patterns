@@ -56,3 +56,7 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 * Exercício 1 - fábrica de brinquedos [💻](https://gist.github.com/ardnaile/39fc9ad0aed1e7d9bcf545ac91afb346)
 * Exercício 2 - fábrica de criaturas mágicas [💻](https://gist.github.com/ardnaile/ddc816431e9815576a85795f73ec365c)
 * Exercício 3 - fábrica de veículos futuristas
+
+## Adapter
+* Exercício 1 - Adaptador de formato de data
+* Exercício 2 - Adaptador de sistemas legados de RH
