@@ -1,6 +1,8 @@
 # Design Patterns
 Repositório utilizado na matéria de Design Patterns no curso de Engenharia de Software da Unisatc. Nesse read.me estão os links para os gists com as resoluções de exercícios propostos em sala de aula!
 
+> Clique nos ícones 💻 para visualizar os códigos!
+
 ## Índice
 - [Programação orientada a objetos](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#programa%C3%A7%C3%A3o-orientada-a-objetos)
 - [POO, SOLID e UML](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#poo-solid-e-uml)
