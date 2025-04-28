@@ -62,3 +62,7 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 ## Adapter
 * Exercício 1 - Adaptador de formato de data [💻](https://gist.github.com/ardnaile/2fac0f997b0cb43c248147a7f0eac7f2)
 * Exercício 2 - Adaptador de sistemas legados de RH [💻](https://gist.github.com/ardnaile/180d881d2af982a1fe1ee108f2e70901)
+
+## Bridge
+* Exercício 1 - Reprodutores de mídia [💻](https://gist.github.com/ardnaile/b2476ada1c90fccff623961a1a6e9312)
+* Exercício 2 - Sistema gráfico [💻]()
