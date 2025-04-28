@@ -8,6 +8,8 @@ Repositório utilizado na matéria de Design Patterns no curso de Engenharia de 
 - [POO, SOLID e UML](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#poo-solid-e-uml)
 - [Factory Method](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#factory-method)
 - [Abstract Factory](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#abstract-factory)
+- [Adapter](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#adapter)
+- [Bridge](https://github.com/ardnaile/design-patterns?tab=readme-ov-file#bridge)
 
 ## Programação Orientada a Objetos
 
@@ -65,4 +67,4 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 
 ## Bridge
 * Exercício 1 - Reprodutores de mídia [💻](https://gist.github.com/ardnaile/b2476ada1c90fccff623961a1a6e9312)
-* Exercício 2 - Sistema gráfico [💻]()
+* Exercício 2 - Sistema gráfico [💻](https://gist.github.com/ardnaile/1f62d52553f4231aef300e0e416e42d1)
