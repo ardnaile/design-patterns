@@ -68,3 +68,6 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 ## Bridge
 * Exercício 1 - Reprodutores de mídia [💻](https://gist.github.com/ardnaile/b2476ada1c90fccff623961a1a6e9312)
 * Exercício 2 - Sistema gráfico [💻](https://gist.github.com/ardnaile/1f62d52553f4231aef300e0e416e42d1)
+
+## Composite
+* Exercício 1 - Sistema de contatos[💻](https://gist.github.com/ardnaile/f423e28e5cb5507d728c3408fe70621b)
