@@ -70,4 +70,7 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 * Exercício 2 - Sistema gráfico [💻](https://gist.github.com/ardnaile/1f62d52553f4231aef300e0e416e42d1)
 
 ## Composite
-* Exercício 1 - Sistema de contatos[💻](https://gist.github.com/ardnaile/f423e28e5cb5507d728c3408fe70621b)
+* Exercício 1 - Sistema de contatos [💻](https://gist.github.com/ardnaile/f423e28e5cb5507d728c3408fe70621b)
+
+## Chain of Responsability
+* Exercício 1 - Sistema de aprovação de despesas [💻](https://gist.github.com/ardnaile/bba1231229007789de2f274b5ff8b0fc)
