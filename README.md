@@ -74,3 +74,4 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 
 ## Chain of Responsability
 * Exercício 1 - Sistema de aprovação de despesas [💻](https://gist.github.com/ardnaile/bba1231229007789de2f274b5ff8b0fc)
+* Exercício 2 - Sistema de validação de formulários [💻](https://gist.github.com/ardnaile/cc1f83b45e31b352ef03fdef31aa22b8)
