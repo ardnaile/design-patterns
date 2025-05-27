@@ -79,3 +79,4 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 
 ## Observer
 * Exercício 1 - Sistema de notificações para blog [💻](https://gist.github.com/ardnaile/beace5c624c890f166b93e23b7d40df9)
+* Exercício 2 - Sistema de notificações de estoque [💻](https://gist.github.com/ardnaile/47d3be10b40dbfa5087de6ceca126578)
