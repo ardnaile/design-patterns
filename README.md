@@ -76,3 +76,6 @@ Exercício 3 - plataforma de streaming [💻](https://gist.github.com/ardnaile/0
 * Exercício 1 - Sistema de aprovação de despesas [💻](https://gist.github.com/ardnaile/bba1231229007789de2f274b5ff8b0fc)
 * Exercício 2 - Sistema de validação de formulários [💻](https://gist.github.com/ardnaile/cc1f83b45e31b352ef03fdef31aa22b8)
 * Exercício 3 - Sistema de processamenro de requisições HTTP [💻](https://gist.github.com/ardnaile/b8e972a164514b79543b2d8e87333171)
+
+## Observer
+* Exercício 1 - Sistema de notificações para blog [💻](https://gist.github.com/ardnaile/beace5c624c890f166b93e23b7d40df9)
